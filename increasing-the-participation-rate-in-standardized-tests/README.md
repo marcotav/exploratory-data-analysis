@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="sat.png",  width="200" height="150">
+  <img src="images/sat.png",  width="200" height="150">
 </p>                                                                  
 <p align="center">
   <a href="#ov"> Overview </a> •
@@ -60,21 +60,6 @@ We first need to import Python libraries including:
 
 This information was taken directly from the documentation.
 
-```
-import scipy
-import pandas as pd
-import scipy.stats as stats
-import numpy as np
-import csv
-import statsmodels.api as sm
-import matplotlib.pyplot as plt
-import seaborn as sns
-sns.set_style("darkgrid")
-import pytest
-import pylab as p
-%matplotlib inline
-```
-
 ### Loading the data and performing basic operations.
 
 To read our data (which is in the form of `csv` files), into a `DataFrame` structure, we use the method `read_csv()` and pass in each file name as a string:
@@ -94,7 +79,7 @@ After some data wrangling and feature engineering, the SAT (top) and ACT (bottom
 <br>
 
 <p align="center">
-  <img src="sat_act_df.png">
+  <img src="images/sat_act_df.png">
 </p>                                   
                                  
 <br> 
@@ -192,4 +177,4 @@ In inferential statistics usually the true parameter is not known, and all one c
 
 ## To be continued
 
-The full analysis is contained in the [notebook](https://github.com/marcotav/increasing-the-participation-rate-in-standardized-tests/blob/master/project-1-marco-tavora.ipynb) in this repo.
+The full analysis is contained in the [notebook](http://nbviewer.jupyter.org/github/marcotav/increasing-the-participation-rate-in-standardized-tests/blob/master/project-1-marco-tavora.ipynb).
