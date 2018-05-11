@@ -5,10 +5,6 @@
 <br>
 <br>
  
-<p align="center">
-<img src="https://github.com/marcotav/exploratory-data-analysis/blob/master/west-nile-virus/images/moggie2.png" 
-       width="150"/>   <img src="https://github.com/marcotav/exploratory-data-analysis/blob/master/increasing-the-participation-rate-in-standardized-tests/images/sat.png" width="150"/> 
-</p> 
 
 
 ### Index
@@ -21,10 +17,24 @@
 
 The problem we need to solve is to how to make actionable suggestions to the College Board to help them increase the participation rates in their exams. For that we need to perform an exploratory data analysis (EDA) to find appropriate metrics that can be adjusted by the College Board accordingly. 
 
+<p align="center">
+<img src="https://github.com/marcotav/exploratory-data-analysis/blob/master/increasing-the-participation-rate-in-standardized-tests/images/sat.png" width="150"/> 
+</p> 
+
+
 ### west-nile-virus
+
+
+<p align="center">
+<img src="https://github.com/marcotav/exploratory-data-analysis/blob/master/west-nile-virus/images/moggie2.png" 
+       width="150"/>  
+</p> 
+
 
 From the Kaggle website:
 
 > West Nile virus is most commonly spread to humans through infected mosquitos. Around 20% of people who become infected with the virus develop symptoms ranging from a persistent fever, to serious neurological illnesses that can result in death.
 
 In this notebook I will perform a detailed EDA of this Kaggle dataset.
+
+
