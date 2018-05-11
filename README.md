@@ -1,13 +1,15 @@
 ## Exploratory Data Analysis
 
-![image title](https://img.shields.io/badge/python-v3.6-green.svg) ![image title](https://img.shields.io/badge/ntlk-v3.2.5-yellow.svg) ![Image title](https://img.shields.io/badge/sklearn-0.19.1-orange.svg) ![Image title](https://img.shields.io/badge/BeautifulSoup-4.6.0-blue.svg) ![Image title](https://img.shields.io/badge/pandas-0.22.0-red.svg) ![Image title](https://img.shields.io/badge/numpy-1.14.2-green.svg) ![Image title](https://img.shields.io/badge/matplotlib-v2.1.2-orange.svg) 
-<br>
-<br>
- 
+
 <p align="center">
 <img src="https://github.com/marcotav/exploratory-data-analysis/blob/master/west-nile-virus/images/moggie2.png" 
        width="150"/>   <img src="https://github.com/marcotav/exploratory-data-analysis/blob/master/increasing-the-participation-rate-in-standardized-tests/images/sat.png" width="150"/> 
 </p> 
+
+
+![image title](https://img.shields.io/badge/python-v3.6-green.svg) ![image title](https://img.shields.io/badge/ntlk-v3.2.5-yellow.svg) ![Image title](https://img.shields.io/badge/sklearn-0.19.1-orange.svg) ![Image title](https://img.shields.io/badge/BeautifulSoup-4.6.0-blue.svg) ![Image title](https://img.shields.io/badge/pandas-0.22.0-red.svg) ![Image title](https://img.shields.io/badge/numpy-1.14.2-green.svg) ![Image title](https://img.shields.io/badge/matplotlib-v2.1.2-orange.svg) 
+<br>
+<br>
  
 
 ### Index
