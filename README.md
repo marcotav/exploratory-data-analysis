@@ -25,11 +25,6 @@ The problem we need to solve is to how to make actionable suggestions to the Col
 ### west-nile-virus
 
 
-<p align="center">
-<img src="https://github.com/marcotav/exploratory-data-analysis/blob/master/west-nile-virus/images/moggie2.png" 
-       width="150"/>  
-</p> 
-
 
 From the Kaggle website:
 
@@ -37,4 +32,7 @@ From the Kaggle website:
 
 In this notebook I will perform a detailed EDA of this Kaggle dataset.
 
-
+<p align="center">
+<img src="https://github.com/marcotav/exploratory-data-analysis/blob/master/west-nile-virus/images/moggie2.png" 
+       width="150"/>  
+</p> 
