@@ -21,8 +21,6 @@
 
 The problem we need to solve is to how to make actionable suggestions to the College Board to help them increase the participation rates in their exams. For that we need to perform an exploratory data analysis (EDA) to find appropriate metrics that can be adjusted by the College Board accordingly. 
 
-I recommend reading the notebook using [nbviewer]
-
 ### west-nile-virus
 
 From the Kaggle website:
@@ -30,5 +28,3 @@ From the Kaggle website:
 > West Nile virus is most commonly spread to humans through infected mosquitos. Around 20% of people who become infected with the virus develop symptoms ranging from a persistent fever, to serious neurological illnesses that can result in death.
 
 In this notebook I will perform a detailed EDA of this Kaggle dataset.
-
-I recommend reading the notebook using [nbviewer]
