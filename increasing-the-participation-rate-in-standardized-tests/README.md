@@ -3,21 +3,6 @@
 
 **The code is available [here](http://nbviewer.jupyter.org/github/marcotav/exploratory-data-analysis/blob/master/increasing-the-participation-rate-in-standardized-tests/notebooks/project-1-marco-tavora.ipynb) or by clicking on the [view code] link above.**
 
-<p align="center">
-  <a href="#intro"> Introduction </a> •
-  <a href="#lib"> Libraries </a> •
-  <a href="#pro"> Problem domain </a> •
-  <a href="#cle"> Cleaning the text </a> •
-  <a href="#docmatrix"> Document-term matrix </a> •
-  <a href="#model"> LDA model </a>  •
-  <a href="#pyLDAvis"> pyLDAvis </a>  •
-  <a href="#results"> Results </a> 
-</p>
-
-
-
-
-
 
 <br>
 
